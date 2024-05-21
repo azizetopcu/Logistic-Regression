@@ -28,4 +28,4 @@
 ##### 4. Model Evaluation
 ##### 5. Model Validation: Holdout
 ##### 6. Model Validation: 10-Fold Cross Validation
-#####7. Prediction for A New Observatio
+##### 7. Prediction for A New Observatio
